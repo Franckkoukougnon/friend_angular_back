@@ -1,0 +1,1 @@
+INSERT into friend (first_name,last_name,email,departement,country) values ("wayne","John","john@gmail.com","United","USA");
